@@ -7,11 +7,13 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Pixel Art Creator 🎨</h1>
+    <h1>Pixel Art Creator
+        <img src="images/banana pixel.png" alt="pixelated banana" width="100" height="100"/>
+    </h1>
     <div class="controls">
       <label for="colorPicker">Pick a color:</label>
       <input type="color" id="colorPicker" value="#000000">
-      <button id="clearBtn">Clear</button>
+      <button class="clear-button" id="clearBtn">Clear</button>
       <button id="saveBtn">Save as PNG</button>
     </div>
     <canvas id="pixelCanvas" width="512" height="512"></canvas>

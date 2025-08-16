@@ -38,3 +38,21 @@ canvas {
     border: 1px solid #ccc;
     background-color: white;
 }
+
+h1 img {
+    vertical-align: middle;
+    margin-left: 0px;
+}
+
+.clear-button {
+    background-color: red;
+}
+
+label {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    color: purple;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
