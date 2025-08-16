@@ -33,9 +33,6 @@ pixel-art-creator/
 4. Right-click `index.html` and choose **Open with Live Server**.
 5. Start creating your pixel art!
 
-## 📸 Demo
-(Include a screenshot or GIF of your app here once it's running!)
-
 ## 💡 Future Improvements
 - Add an eraser tool.
 - Let users change pixel size (8x8, 32x32, etc.).
